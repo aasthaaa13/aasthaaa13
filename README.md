@@ -1,5 +1,8 @@
-
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://github.com/aasthaaa13/aasthaaa13/blob/main/Screenshot%202025-07-24%20042455.png" alt="Banner" />
+</p>
+𝐇𝐢, 𝐈'𝐦 𝐀𝐚𝐬𝐭𝐡𝐚 𝐏𝐲𝐚𝐬𝐢
 
 <!--
 **aasthaaa13/aasthaaa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
