@@ -6,7 +6,6 @@
 <h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐀𝐚𝐬𝐭𝐡𝐚 𝐏𝐲𝐚𝐬𝐢🌸❤️</h1>
 <h3 align="center"> 𝐶ℎ𝑎𝑠𝑖𝑛𝑔 𝑠𝑡𝑎𝑟𝑠 𝑎𝑛𝑑 𝑠ℎ𝑎𝑝𝑖𝑛𝑔 𝑐𝑜𝑑𝑒!🌠✨</h3>
 <h2 align="center"> 𝐈'𝐦 𝐚 𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐥𝐞 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐀𝐈 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 </h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
