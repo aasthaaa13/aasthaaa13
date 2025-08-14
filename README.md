@@ -3,7 +3,7 @@
     src="https://github.com/aasthaaa13/aasthaaa13/blob/main/Screenshot%202025-07-24%20042455.png" alt="Banner" />
 </p>
  <p align="center">
-  <img src="0_yBvA5CnEX3Sd4aod.gif" width="400" alt="Coding GIF" />
+  <img src="0_yBvA5CnEX3Sd4aod.gif" width="200" alt="Coding GIF" />
 </p>
 
 <h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐀𝐚𝐬𝐭𝐡𝐚 𝐏𝐲𝐚𝐬𝐢🌸❤️</h1>
