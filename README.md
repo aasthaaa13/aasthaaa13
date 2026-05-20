@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/aasthaaa13/aasthaaa13/blob/main/Screenshot%202025-07-24%20042455.png" alt="Banner" />
+    src="Banner.png" alt="Banner" />
 </p>
  <p align="center">
   <img src="0_yBvA5CnEX3Sd4aod.gif" width="200" alt="Coding GIF" />
