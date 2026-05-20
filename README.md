@@ -12,6 +12,8 @@
 
 <img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="200" alt="Coding GIF"><img src="hehe.gif" width="200" alt="Coding GIF">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aasthaaa13&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaaa13" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aastha-pyasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastha-pyasi" height="30" width="40" /></a>
