@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaaa13&show_icons=true&locale=en&layout=compact" alt="aasthaaa13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasthaaa13&show_icons=true&locale=en" alt="aasthaaa13" /></p>
-<img src="" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/aasthaaa13/aasthaaa13/output/snake.svg" alt="Snake animation" />
