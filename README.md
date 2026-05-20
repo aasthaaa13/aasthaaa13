@@ -10,7 +10,7 @@
 <h3 align="center"> 𝐶ℎ𝑎𝑠𝑖𝑛𝑔 𝑠𝑡𝑎𝑟𝑠 𝑎𝑛𝑑 𝑠ℎ𝑎𝑝𝑖𝑛𝑔 𝑐𝑜𝑑𝑒!🌠✨</h3>
 <h2 align="center"> 𝐈'𝐦 𝐚 𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐥𝐞 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐀𝐈 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 </h2>
 
-<img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="200" alt="Coding GIF"><img src="hehe.gif" width="200" alt="Coding GIF">
+<img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="200" alt="Coding GIF"><img src="hehe.gif" width="200" alt="Coding GIF"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS87_f3kgGY1E4UALXocLguPoR1iWCMC5r6DQ&s" width="200" alt="Coding GIF">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aasthaaa13&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaaa13" /> </p>
 
