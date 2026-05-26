@@ -2,7 +2,6 @@
   <img
     src="Banner.png" alt="Banner" />
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Specialist;Full-Stack+Web+Developer;Android+Application+Developer;Proficient+in+Java%2C+Python%2C+C%2B%2B%2C+JavaScript)](https://git.io/typing-svg)
 
 <h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐀𝐚𝐬𝐭𝐡𝐚 𝐏𝐲𝐚𝐬𝐢🌸❤️</h1>
  <p align="center">
