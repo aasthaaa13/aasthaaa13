@@ -13,7 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=%2336BCF7&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+Enthusiast;Versatile+Full-Stack+Web+Developer;Professional+Graphic+Designer;Chasing+stars+and+shaping+code!🌠✨" />
 </p>
 
-
 <img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF"><img src="lol.gif" width="200" alt="Coding GIF"><img src="hehe.gif" width="200" alt="Coding GIF"><img src="https://i.pinimg.com/originals/6c/79/08/6c7908d10ee7a48b3a410bd5a09849ad.gif" width="200" alt="Coding GIF">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aasthaaa13&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaaa13" /> </p>
