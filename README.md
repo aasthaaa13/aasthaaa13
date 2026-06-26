@@ -22,6 +22,53 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aasthaaa13&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaaa13" /> </p>
 
+```javascript
+const aastha = {
+
+    languages: {
+        primary:     ["JavaScript", "TypeScript", "C++"],
+        secondary:   ["Python", "SQL"],
+
+    programming: {
+        frontend:    ["HTML5", "CSS3", "JavaScript", "React", "React Native", "Tailwind CSS", "Bootstrap"],
+        backend:     ["Node.js", "Express.js", "Firebase"],
+        databases:   ["MongoDB", "MySQL"],
+        devOps:      ["Git", "Google Cloud Platform"],
+        tools:       ["GitHub", "VS Code", "Figma", "Canva", "MATLAB", "Xano"],
+        AI/ML:       ["Python", "NumPy", "Pandas", "Scikit-learn", "Jupyter Notebook", "Google Collab", "Anaconda Navigator", "PyCharm"]
+  },
+
+    interests:       ["Machine Learning", "Full Stack Development", "DSA", "Open-Source", "Research", "Graphic Designing"],
+
+    organizations: {
+        "Secretary (Web-d Lead)": "AI Club , MITS Gwalior  (2025-Present"),
+        "Graphic Designer": "IEEE PES SBC MP Section (2025-Present)",
+        "Graphic Designer": "Soft Computing Research Society (SCRS)  (2025-Present)",
+        "Internship": "Artificial Intelligence Intern at DecodeLabs (28 May 2026 - 28 June 2026)",
+        "Internship": "Graphic Designing Intern at InAmigos Foundation (Nov 2025-Dec 2025)",
+        "Scholar": "SheFi Scholar (Oct 2025-Nov 2025)"
+        
+  },
+
+    hackathons: [
+       "Bharatiya Antariksha Hackathon (BAH 2025): National-Level Hacakthon | Organiszed by Isro | Served as a team leader and worked on backend"
+
+       "HackOrbit 2025 Finalist: 36-hour National-Level Hackathon | Organized by MITS Gwalior | Worked as a frontend and UI/UX developer | one of the finalists   
+       to the judging round among 600+ teams across India after rigorous multi-round evaluation"
+
+       "DevSprint-Leveraging the Power of AI: National-Level Hackathon | Conducted by Google Developer Groups on Campus, MITS Gwalior | worked on backend & documentation"
+  ],
+    
+    currentlyLearning: ["Authentication", "Scalable Architecture", "System Design", "Cloud Computing"],
+    openTo:            ["Internships", "Open Source", "Hackathons", "Collaborations", "Freelance"],
+
+    funFact:
+    "I like gaining hands-on experience in diverse cohort and contributing to the world of graphics, machine learning and web-apps!🚀"
+  };
+```
+<br/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aastha-pyasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastha-pyasi" height="30" width="40" /></a>
