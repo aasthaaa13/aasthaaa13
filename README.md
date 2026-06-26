@@ -53,7 +53,7 @@ const aastha = {
     interests:       ["Machine Learning", "Full Stack Development", "DSA", "Open-Source", "Research", "Graphic Designing"],
 
     organizations: {
-        "Secretary (Web-d Lead)": "AI Club , MITS Gwalior  (2025-Present"),
+        "Secretary (Web-d Lead)": "AI Club , MITS Gwalior  (2025-Present)",
         "Graphic Designer": "IEEE PES SBC MP Section (2025-Present)",
         "Graphic Designer": "Soft Computing Research Society (SCRS)  (2025-Present)",
         "Internship": "Artificial Intelligence Intern at DecodeLabs (28 May 2026 - 28 June 2026)",
