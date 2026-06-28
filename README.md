@@ -61,6 +61,12 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" />
 </p></p>
 
+<!--About me section-->
+<h3 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
+  About Me 
+</h3>
+
 ```javascript
 const aastha = {
 
