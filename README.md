@@ -54,6 +54,7 @@
 <a href="https://www.leetcode.com/aasthaaa13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aasthaaa13" height="30" width="40" /></a>
 <a href="https://github.com/aasthaaa13"><img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
 <a href= "https://codolio.com/profile/aasthaaa13" target="blank"><img align="center" src="https://github.com/user-attachments/assets/69467cb8-946c-4a3a-af91-7da808fa7117" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/aasthaaa13" target="blank"><img align="center" src="https://github.com/user-attachments/assets/edc55674-2b4a-42a9-b654-43b01199679f" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
