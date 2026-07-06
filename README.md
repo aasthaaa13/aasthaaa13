@@ -5,7 +5,7 @@
 
 <h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐀𝐚𝐬𝐭𝐡𝐚 𝐏𝐲𝐚𝐬𝐢🌸❤️</h1>
  <p align="center">
-  <img src="0_yBvA5CnEX3Sd4aod.gif" width="350" alt="Coding GIF" />
+  <img src="codinggirl.gif" width="350" alt="Coding GIF" />
 </p>
 
 
