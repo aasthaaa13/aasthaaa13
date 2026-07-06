@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <img src="216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF">
+ <img src="coding.gif" width="200" alt="Coding GIF">
   <img src="lol.gif" width="200" alt="Coding GIF">
   <img src="hehe.gif" width="200" alt="Coding GIF">
   <img src="https://i.pinimg.com/originals/6c/79/08/6c7908d10ee7a48b3a410bd5a09849ad.gif" width="200" alt="Coding GIF">
