@@ -56,6 +56,7 @@
 <a href= "https://codolio.com/profile/aasthaaa13" target="blank"><img align="center" src="https://github.com/user-attachments/assets/69467cb8-946c-4a3a-af91-7da808fa7117" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/aasthaaa13" target="blank"><img align="center" src="https://github.com/user-attachments/assets/edc55674-2b4a-42a9-b654-43b01199679f" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/aasthaaa13" target="blank"><img align="center" src= "https://github.com/user-attachments/assets/96e86801-acc2-40a7-b78b-48066527afdb" height="40" width="40" /></a>
+<a href="https://orcid.org/0009-0009-6831-2688" target="blank"><img align="center" src= "https://github.com/user-attachments/assets/27fe2ea8-eff0-40e3-8fd5-1a7be1027fab" height="40" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/profile/aasthaaa13 target="blank"><img align="center" src= "https://github.com/user-attachments/assets/d2330b2e-0531-4029-aab4-0f1ee49ab4b7" height="40" width="40" /></a>
 </p>
 
