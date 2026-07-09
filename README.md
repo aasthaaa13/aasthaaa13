@@ -133,7 +133,6 @@ const aastha = {
 </p>
 
 
-
 <p align="center">
  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=aasthaaa13"/>
 </p>
@@ -142,6 +141,12 @@ const aastha = {
 <p align="center">
  <img src="https://raw.githubusercontent.com/aasthaaa13/aasthaaa13/output/github-snake-light.svg" alt="Snake animation" />
 </p>
+
+<p align="center">
+  <img
+    src="Footer.jpeg" alt="Banner" height="200" width="1850" />
+</p>
+
 
 
  
