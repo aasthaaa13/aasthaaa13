@@ -3,10 +3,8 @@
     src="Banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐀𝐚𝐬𝐭𝐡𝐚 𝐏𝐲𝐚𝐬𝐢🌸❤️</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=%2336BCF7&center=true&vCenter=true&width=600&lines=AI+and+Data+Science+Enthusiast;Versatile+Full-Stack+Web+Developer;Professional+Graphic+Designer;Chasing+stars+and+shaping+code!🌠✨" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Aastha+Pyasi;AI+and+Data+Science+Enthusiast;Versatile+Full-Stack+Web+Developer;Professional+Graphic+Designer;Chasing+stars+and+shaping+code" />
 </p>
 
 <p align="center">
