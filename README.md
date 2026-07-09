@@ -15,12 +15,13 @@
 
 <p align="center">
  <img src="coding.gif" width="200" alt="Coding GIF">
-  <img src="lol.gif" width="200" alt="Coding GIF">
-  <img src="hehe.gif" width="200" alt="Coding GIF">
-  <img src="https://i.pinimg.com/originals/6c/79/08/6c7908d10ee7a48b3a410bd5a09849ad.gif" width="200" alt="Coding GIF">
+ <img src="lol.gif" width="200" alt="Coding GIF">
+ <img src="hehe.gif" width="200" alt="Coding GIF">
+ <img src="https://i.pinimg.com/originals/6c/79/08/6c7908d10ee7a48b3a410bd5a09849ad.gif" width="200" alt="Coding GIF">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aasthaaa13&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaaa13" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=aasthaaa13&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaaa13" /> </p>
 
 <!--linked in, gmail and discord links-->
 <div align="center">
