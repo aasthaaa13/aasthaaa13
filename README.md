@@ -8,6 +8,14 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/B.Tech-MAC-8B5FBF?style=flat-square&logo=graduation-cap&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Engineering_Student-India-9D4EDD?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Gwalior,_India-77607D?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p align="center">
  <img src="coding.gif" width="200" alt="Coding GIF">
  <img src="lol.gif" width="200" alt="Coding GIF">
  <img src="hehe.gif" width="200" alt="Coding GIF">
