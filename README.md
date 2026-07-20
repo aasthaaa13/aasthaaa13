@@ -132,12 +132,12 @@ const aastha = {
         <img src="faculty-management-system.png" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Faculty Management System</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: React.js, TypeScript, Vite, Tailwind CSS, HTML5, CSS3</p>
+         <a href="https://github.com/aasthaaa13/Faculty-Management-System-FMS.git">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
         <a href="https://faculty-management-system-alpha.vercel.app/">
           <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
         </a>
-        <!-- <a href="https://github.com/aasthaaa13/Femigo-women-navigation-app.git">
-          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-        </a> -->
+        </a> 
       </div>
     </td>
     <td align="center" width="50%" style="padding: 20px;">
@@ -145,11 +145,14 @@ const aastha = {
         <img src="femigo.png" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Femigo-women-navigation-app</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Flask (Python), jinja2, HTML & CSS</p>
-        <!-- <a href="https://femigo-app.vercel.app/">
+        <!-- <a href="https://femigo-app.vercel.app">
           <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
         </a> -->
         <a href="https://github.com/aasthaaa13/Femigo-women-navigation-app.git">
           <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+          <a href="https://femigo-app.vercel.app">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a>
         </a>
       </div>
     </td>
