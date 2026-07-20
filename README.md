@@ -129,7 +129,7 @@ const aastha = {
   <tr>
   <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
-        <img src="files/faculty-management-system.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
+        <img src="faculty-management-system.png" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Faculty Management System</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: React.js, TypeScript, Vite, Tailwind CSS, HTML5, CSS3</p>
         <a href="https://faculty-management-system-alpha.vercel.app/">
