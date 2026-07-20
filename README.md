@@ -142,10 +142,11 @@ const aastha = {
  <img src="https://raw.githubusercontent.com/aasthaaa13/aasthaaa13/output/github-snake-light.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img
-    src="Footer.jpeg" alt="Banner" height="200" width="1850" />
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/9e780a54-972b-489f-a8f6-e475d0f2058b" alt="banner" height="300" width="1850" />
 </p>
+
+
 
 
 
