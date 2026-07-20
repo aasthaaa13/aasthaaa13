@@ -156,6 +156,10 @@ const aastha = {
         </a>
       </div>
     </td>
+    </tr>
+</table>
+
+</div>
 
 
 <p align="center">
