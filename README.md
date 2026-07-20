@@ -144,7 +144,7 @@ const aastha = {
       <div style="position: relative;">
         <img src="femigo.png" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
         <strong>Femigo women navigation app</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: TypeScript, Tailwind CSS, ShadCN, Next.js, Leaflet, Gemini, Cloud Firestore, Firebase Authentication & storage</p>
+        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: TypeScript, Tailwind CSS, ShadCN, Next.js, Leaflet, Cloud Firestore, Firebase Authentication & storage</p>
         <!-- <a href="https://femigo-app.vercel.app">
           <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
         </a> -->
