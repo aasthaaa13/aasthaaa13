@@ -143,7 +143,7 @@ const aastha = {
     <td align="center" width="50%" style="padding: 20px;">
       <div style="position: relative;">
         <img src="femigo.png" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
-        <strong>Femigo-women-navigation-app</strong><br>
+        <strong>Femigo women navigation app</strong><br>
         <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: Flask (Python), jinja2, HTML & CSS</p>
         <!-- <a href="https://femigo-app.vercel.app">
           <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
