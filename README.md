@@ -122,6 +122,24 @@ const aastha = {
 ```
 <br/>
 
+### 📌 Featured Projects
+<div align="center">
+
+<table style="padding: 20px; border-spacing: 30px;">
+  <tr>
+  <td align="center" width="50%" style="padding: 20px;">
+      <div style="position: relative;">
+        <img src="files/faculty-management-system.png" alt="FRAS" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
+        <strong>Faculty Management System</strong><br>
+        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: React.js, TypeScript, Vite, Tailwind CSS, HTML5, CSS3</p>
+        <a href="https://faculty-management-system-alpha.vercel.app/">
+          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
+        </a>
+        <!-- <a href="https://github.com/itsVaibhavSharma/face-recognition-attendance-system">
+          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
+        </a> -->
+      </div>
+
 
 <p align="center">
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=aasthaaa13"/>
