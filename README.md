@@ -123,43 +123,6 @@ const aastha = {
 <br/>
 
 ### 📌 Featured Projects
-<div align="center">
-
-<table style="padding: 20px; border-spacing: 30px;">
-  <tr>
-  <td align="center" width="50%" style="padding: 20px;">
-      <div style="position: relative;">
-        <img src="faculty-management-system.png" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
-        <strong>Faculty Management System</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: React.js, TypeScript, Vite, Tailwind CSS, HTML5, CSS3, Firebase Storage </p>
-         <a href="https://github.com/aasthaaa13/Faculty-Management-System-FMS.git">
-          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-        <a href="https://faculty-management-system-alpha.vercel.app/">
-          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-        </a>
-        </a> 
-      </div>
-    </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <div style="position: relative;">
-        <img src="femigo.png" width="300px" style="transition: transform 0.3s; cursor: pointer; margin-top:5px;"><br>
-        <strong>Femigo women navigation app</strong><br>
-        <p style="padding: 10px; height: 40px; overflow: hidden;">Technologies: TypeScript, Tailwind CSS, ShadCN, Next.js, Leaflet, Cloud Firestore, Firebase storage</p>
-        <!-- <a href="https://femigo-app.vercel.app">
-          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-        </a> -->
-        <a href="https://github.com/aasthaaa13/Femigo-women-navigation-app.git">
-          <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github" alt="View Code">
-          <a href="https://femigo-app.vercel.app">
-          <img src="https://img.shields.io/badge/View%20Live-009688?style=for-the-badge" alt="View Live">
-        </a>
-        </a>
-      </div>
-    </td>
-    </tr>
-</table>
-
-</div>
 
 <!-- Screenshots pulled from assests/screenshot/ in this repo -->
 
@@ -182,10 +145,9 @@ Anonymous faculty management platform with real-time role-based dashboards
 </td>
 
   <td width="50%">
-
-  <img src="assests/faculty-management-system.png" width="100%"/>
-
-**🛡️ [Femigo](https://github.com/hiral17234/Campus-Voice)**
+<img src="assests/femigo.png" width="100%"/>
+    
+**🛡️ [Femigo](https://github.com/aasthaaa13/Femigo-women-navigation-app.git)**
 
 Women's safety app — SOS alerts, live tracking, fake-call trigger
 
@@ -202,7 +164,15 @@ Women's safety app — SOS alerts, live tracking, fake-call trigger
 
 <td width="50%">
 
-<img src="assests/femigo.png" width="100%"/>
+</tr>
+</tr>
+</table>
+
+---
+
+
+
+
 
 
 <p align="center">
