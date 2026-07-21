@@ -161,6 +161,49 @@ const aastha = {
 
 </div>
 
+<!-- Screenshots pulled from assests/screenshot/ in this repo -->
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="assests/faculty-management-system.png" width="100%"/>
+
+**🗳️ [Faculty Management System](https://github.com/aasthaaa13/Faculty-Management-System-FMS.git)**
+
+Anonymous faculty management platform with real-time role-based dashboards
+
+`React.js` `Typescript` `Vite` `Firebase Storage`
+
+<a href="https://github.com/aasthaaa13/Faculty-Management-System-FMS.git"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://faculty-management-system-alpha.vercel.app/"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+
+  <td width="50%">
+
+  <img src="assests/faculty-management-system.png" width="100%"/>
+
+**🛡️ [Femigo](https://github.com/hiral17234/Campus-Voice)**
+
+Women's safety app — SOS alerts, live tracking, fake-call trigger
+
+`Next.js` `Genkit` `Leaflet`
+
+<a href="https://github.com/aasthaaa13/Femigo-women-navigation-app.git"><img src="https://img.shields.io/badge/-VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://femigo-app.vercel.app"><img src="https://img.shields.io/badge/-VIEW%20LIVE-14b8a6?style=for-the-badge&logoColor=white"/></a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<img src="assests/femigo.png" width="100%"/>
+
 
 <p align="center">
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=aasthaaa13"/>
