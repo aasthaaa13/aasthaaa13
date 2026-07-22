@@ -124,14 +124,14 @@ const aastha = {
 
 ### 📌 Featured Projects
 
-<!-- Screenshots pulled from assests/screenshot/ in this repo -->
+<!-- Screenshots pulled from assets/screenshot/ in this repo -->
 
 <table>
 <tr>
 
 <td width="50%">
 
-<img src="assests/faculty-management-system.png" width="100%"/>
+<img src="assets/faculty-management-system.png" width="100%"/>
 
 **🗳️ [Faculty Management System](https://github.com/aasthaaa13/Faculty-Management-System-FMS.git)**
 
@@ -145,7 +145,7 @@ Anonymous faculty management platform with real-time role-based dashboards
 </td>
 
   <td width="50%">
-<img src="assests/femigo.png" width="100%"/>
+<img src="assets/femigo.png" width="100%"/>
     
 **🛡️ [Femigo](https://github.com/aasthaaa13/Femigo-women-navigation-app.git)**
 
