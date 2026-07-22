@@ -159,13 +159,9 @@ Women's safety app — SOS alerts, live tracking, fake-call trigger
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%">
-
+</td>
 </tr>
-</tr>
+
 </table>
 
 ---
